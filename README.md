@@ -108,7 +108,7 @@ For minority group:
 
 |Model|Approach|Accuracy|Precision|Recall|F1-Score|Feature_Count|
 |-----|--------|--------|---------|------|--------|-------------|
-|RF|Baseline with SMOTE|0.93|0.90|0.90|0.90|12|
+|RF|Baseline with SMOTE|0.97|1.00|0.89|0.90|12|
 |RF|Enhanced_with_Probabilities|0.97|1.00|0.89|0.94|14|
 |XGB|Baseline with SMOTE|0.90|0.80|0.89|0.84|12|
 |XGB|Enhanced_with_Probabilities|0.90|0.80|0.89|0.84|14|
