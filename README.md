@@ -122,4 +122,7 @@ No Balancing: Boosting models naturally handled imbalanced data better then RF, 
 SMOTE: improved minority class recall in all models, with expected tradeoff of reduced precision.
 Class Weights: RF benefited from class weights, but the boosting models already focused on correcting minority errors, benefited less if any.  
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
